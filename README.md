@@ -1,4 +1,9 @@
-### Hi there 👋
+My real last name isn't really Kerman, it's fake and is a reference to the game Kerbal Space Program.
+
+I know Lua and Concurnas, but am most proficient in Java.
+
+I spend my time modding Minecraft, with the Fabric modloader.
+
 
 <!--
 **Devan-Kerman/Devan-Kerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
