@@ -1,6 +1,6 @@
 My real last name isn't really Kerman, it's fake and is a reference to the game Kerbal Space Program.
 
-I know Lua and Concurnas, but am most proficient in Java.
+I know Lua and C++ but am most proficient in Java.
 
 I spend my time modding Minecraft, with the Fabric modloader.
 
