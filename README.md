@@ -1,8 +1,10 @@
 My real last name isn't really Kerman, it's fake and is a reference to the game Kerbal Space Program.
 
-I know Lua and C++ but am most proficient in Java.
+I know Lua, C++, and matlab but am most proficient in Java and Python.
 
-I spend my time modding Minecraft, with the Fabric modloader.
+I program as a hobby and am currently working on a private machine learning project.
+
+I like designing good code that's easy to read and use, and find the challenge of balancing coding principles (like type safety and performance) with ease of use and understanding.
 
 
 <!--
